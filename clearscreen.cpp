@@ -4,7 +4,7 @@ using namespace std;
 void cls();
 int add();
 int sub();
-
+//Edited
 int main() {
     int user_input, result;
     
